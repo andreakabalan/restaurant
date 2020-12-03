@@ -1,7 +1,7 @@
 function fill(linkName) {
     document.getElementById("menu").innerHTML='';
 
-    var link = "http://restaurant12032020.herokuapp.com/" + linkName;
+    var link = "https://restaurant12032020.herokuapp.com/" + linkName;
 
     fetch(link)
         .then(response => response.json())
