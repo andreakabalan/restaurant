@@ -1,0 +1,37 @@
+<head>
+  <title>Ecommerce Example</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="index.js"></script>
+</head>
+
+<body onload="fill('pizzas');">
+
+  <div id="title">
+    <h1>Matilda's</h1>
+  </div>
+
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark justify-content-center">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#" onclick="fill('pizzas');">Pizzas</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="#" onclick="fill('salads');">Salads</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="#" onclick="fill('desserts');">Desserts</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="#" onclick="fill('cocktails');">Cocktails</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="#" onclick="fill('christmas');">Christmas</a>
+      </li>
+    </ul>
+  </nav>
+
+  <div id="menu" class="card-columns"></div>
+
+
+</body>

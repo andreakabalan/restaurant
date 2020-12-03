@@ -1,0 +1,139 @@
+{
+    "pizzas": [
+        {
+            "name": "Classic Pepperoni",
+            "picture": "/resources/pizza_1.png",
+            "price": 14,
+            "description": "",
+            "offer": ""
+        },
+        {
+            "name": "Italian",
+            "picture": "/resources/pizza_2.png",
+            "price": 14,
+            "description": "",
+            "offer": ""
+        },
+        {
+            "name": "House Special",
+            "picture": "/resources/pizza_3.png",
+            "price": 13,
+            "description": "",
+            "offer": ""
+        }
+    ],
+    "salads": [
+        {
+            "name": "Green Bowl",
+            "picture": "/resources/salad_1.png",
+            "price": 9,
+            "description": "",
+            "offer": ""
+        },
+        {
+            "name": "Avocado",
+            "picture": "/resources/salad_2.png",
+            "price": 12.99,
+            "description": "",
+            "offer": ""
+        },
+        {
+            "name": "Shrimp",
+            "picture": "/resources/salad_3.png",
+            "price": 13,
+            "description": "",
+            "offer": ""
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Apple Pie",
+            "picture": "/resources/dessert_1.png",
+            "price": 10,
+            "description": "",
+            "offer": ""
+        },
+        {
+            "name": "Orange Tarte",
+            "picture": "/resources/dessert_2.png",
+            "price": 10,
+            "description": "",
+            "offer": ""
+        },
+        {
+            "name": "House Special",
+            "picture": "/resources/dessert_3.png",
+            "price": 8,
+            "description": "",
+            "offer": ""
+        }
+    ],
+    "cocktails": [
+        {
+            "name": "Lemon Squeezy",
+            "picture": "/resources/cocktail_1.png",
+            "price": 12.50,
+            "description": "",
+            "offer": ""
+        },
+        {
+            "name": "Orange Explosion",
+            "picture": "/resources/cocktail_2.png",
+            "price": 12.50,
+            "description": "",
+            "offer": ""
+        },
+        {
+            "name": "Subtonic Cherry",
+            "picture": "/resources/cocktail_3.png",
+            "price": 12.50,
+            "description": "",
+            "offer": ""
+        },
+        {
+            "name": "Crucio",
+            "picture": "/resources/cocktail_4.png",
+            "price": 12.50,
+            "description": "",
+            "offer": ""
+        },
+        {
+            "name": "Bloody Mess",
+            "picture": "/resources/cocktail_5.png",
+            "price": 12.50,
+            "description": "",
+            "offer": ""
+        },
+        {
+            "name": "Winter is Coming",
+            "picture": "/resources/cocktail_6.png",
+            "price": 12.50,
+            "description": "",
+            "offer": "Only during December!"
+        }
+        
+    ],
+    "christmas": [
+        {
+            "name": "Sugar Cookies",
+            "picture": "/resources/christmas_1.png",
+            "price": 10,
+            "description": "",
+            "offer": "Only during December!"
+        },
+        {
+            "name": "Hallacas",
+            "picture": "/resources/christmas_2.png",
+            "price": 14.99,
+            "description": "",
+            "offer": "Only during December!"
+        },
+        {
+            "name": "Pan de Jamon",
+            "picture": "/resources/christmas_3.png",
+            "price": 13.99,
+            "description": "",
+            "offer": "Only during December!"
+        }
+    ]
+}
